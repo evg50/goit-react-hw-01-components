@@ -1,0 +1,17 @@
+.stat-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+
+.stat-item {
+    background-color: yellow;
+    padding: 0;
+    margin: 0;
+}
+.statistics {
+    background-color: white;
+    width: 600px;
+}
